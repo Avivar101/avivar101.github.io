@@ -7,7 +7,6 @@ categories:
 tags:
   - blog
 math: true
-marmaid: true
 ---
 
 <!-- Block math, keep all blank lines -->
