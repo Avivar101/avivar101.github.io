@@ -1,9 +1,13 @@
 ---
 title: First page
 date: 2024-03-17 22:30:00 +/-0800
-categories: [Data Science, Algorithms]
-tags: [blog]     # TAG names should always be lowercase
+categories:
+  - Data Science
+  - Algorithms
+tags:
+  - blog
 math: true
+marmaid: true
 ---
 
 <!-- Block math, keep all blank lines -->
@@ -32,7 +36,3 @@ Can be referenced as \eqref{eq:label_name}.
 1. \$$ LaTeX_math_expression $$
 2. \$$ LaTeX_math_expression $$
 3. \$$ LaTeX_math_expression $$
-
----
-mermaid: true
----
