@@ -73,7 +73,7 @@ theme_mode:  dark # [light | dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn:
+img_cdn: https://drive.google.com/drive/u/0/folders/1klhfFv8Zk-4achnGDOPpFH_755IRJUzN
 
 # the avatar on sidebar, support local or CORS resources
 avatar: /avater.png
