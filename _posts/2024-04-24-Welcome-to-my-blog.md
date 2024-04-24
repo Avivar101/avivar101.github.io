@@ -16,4 +16,4 @@ Moving forward, I graduate and started my NYSC program, I was fortunante enough 
 Now I'm done with NYSC service, even though I learnt alot from my service year I still feel somewhat inadequate trying to get into a discipline I have no certification in.  
 Which is why I decided to start this writing jorney and build an online presence, so at leaest to keep it enjoyable while I'm still learning and improving, with hope that it will all work out someday.
 
-Thank you for taking ou of your time to read this lengthy write-up, God Bless.
+Thank you for taking out of your time to read this lengthy write-up, God Bless.
