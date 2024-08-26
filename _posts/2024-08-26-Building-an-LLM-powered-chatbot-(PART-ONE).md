@@ -1,13 +1,6 @@
 ---
 title: Building an LLM powered chatbot (PART ONE)
-date: 2024-08-26 22:30:00 +/-0800  
-categories:
-
-*   LLM
-*   AI  
-    tags:
-*   blog  
-    math: true
+date: 2024-08-26 22:30:00 +/-0800
 ---
 
 I am learning to build a smart conversational chatbot with AI capabilities, like chatgpt and the like, after couple munites of research, I found out all the components I would be using to build my chatbot and how all the pieces work together, which also shows how most conversational bots and GPT clones are built and how they work under the hood.
