@@ -11,6 +11,7 @@ categories:
 ---
 
 I am learning to build a smart conversational chatbot with AI capabilities, like chatgpt and the like, after couple munites of research, I found out all the components I would be using to build my chatbot and how all the pieces work together, which also shows how most conversational bots and GPT clones are built and how they work under the hood.
+
 Let's go through how these chatbots are built which are a number of components being engineered together to give me my smart chatbot
 
 ### Components of Our Chatbot
@@ -61,6 +62,7 @@ Let's go through how these chatbots are built which are a number of components b
 
 
 Though one should note that depending on the simplicity or complexity of your chatbot, not all the components may be needed.
+
 In PART 2, I'll go into how these components interact with each other to give us our final product, "A Smart Conversational Chatbot".
 
 Thank you for reading ❤.
