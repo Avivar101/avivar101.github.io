@@ -19,9 +19,9 @@ Let's go through how these chatbots are built which are a number of components b
     - **Model**: A powerful pre-trained language model (e.g., GPT-4, LLaMA, etc from the hugging Face `transformaers` library)
     - Tokenizer: The LLM's tokenizer is responsible for breaking down input text into tokens that the model can process.
 
-2. **Prompt Engineering**
-    - Input Handling: Crafting prompts that help the model understan the context and generate relevant responses.
-    - Formating: Ensure that prompts are formatted correctly to maintain coherance in conversations.
+2. Prompt Engineering
+    - **Input Handling**: Crafting prompts that help the model understan the context and generate relevant responses.
+    - **Formating**: Ensure that prompts are formatted correctly to maintain coherance in conversations.
 
 3. Retreival System (for RAG)
     - **Knowledge Base**: A Collection of documents, web pages, or knowledge snippets that the chatbot can access for enhanced responses.
